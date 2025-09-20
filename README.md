@@ -1,4 +1,4 @@
-# Resolucion_Sistemas_De_Eecuaciones_Lineales_Mediante_Metodos_Num-ricos_En_Python
+# Resolucion_Sistemas_De_Ecuaciones_Lineales_Mediante_Metodos_Numericos_En_Python
 
 Este repositorio contiene la implementación en **Python** (sin librerías externas) de distintos métodos para resolver sistemas de ecuaciones lineales:
 
